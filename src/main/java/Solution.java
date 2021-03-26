@@ -9,7 +9,9 @@ public class Solution {
         int c = scan.nextInt();
         scan.close();
 
-        
+
+
+
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
